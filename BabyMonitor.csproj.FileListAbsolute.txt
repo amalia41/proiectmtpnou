@@ -1,0 +1,13 @@
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.AssemblyReference.cache
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.DashboardForm.resources
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.InregistrareActivitateForm.resources
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.Properties.Resources.resources
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.GenerateResource.cache
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.exe.config
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.exe
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.pdb
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.exe
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.pdb
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.StatisticiForm.resources
+C:\Users\Pmari\source\repos\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.ProfilBebeForm.resources
